@@ -1,0 +1,2 @@
+1. echo "Hello World" > hello.world.txt in Datei schreiben
+2. Upload als Artifakt bereitstellen 
